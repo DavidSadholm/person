@@ -8,10 +8,12 @@ public class Person implements Comparable<Person> {
 
 	public Person(String name) {
 
-		firstname = "Stefan";
+		firstname = name;
 
-		lastname = "Zethraeus";
+		lastname = "name";
 
+		
+		
 	}
 
 
